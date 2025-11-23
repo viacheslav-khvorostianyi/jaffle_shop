@@ -4,8 +4,6 @@ name: "jaffle_shop"
 version: "3.0.0"
 require-dbt-version: ">=1.5.0"
 
-dbt-cloud:
-  project-id: 70471823511942
 profile: 70471823527847
 
 model-paths: ["models"]
